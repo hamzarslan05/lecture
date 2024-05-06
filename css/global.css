@@ -1,0 +1,16 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif; /* Sets a basic font */
+    background-color: #f0f0f0;  /* Light gray background */
+    margin: 20px;   /* Adds a margin around content */
+    padding: 20px;  /* Adds padding inside the content area */
+ }
+
+h1 {
+    color: #336699;  /* A shade of blue for the heading */
+    text-align: center; /* Centers the heading */
+}
+
+p {
+    line-height: 1.5;  /* Increases line spacing for readability */
+}
